@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jpojqo.github.io/sitemap.html.gz
+Sitemap: https://jpojqo.github.io/app/sitemap.html.gz
+Sitemap: https://jpojqo.github.io/assets/sitemap.html.gz
+Sitemap: https://jpojqo.github.io/css/sitemap.html.gz
+Sitemap: https://jpojqo.github.io/includes/sitemap.html.gz
+Sitemap: https://jpojqo.github.io/item/sitemap.html.gz
+Sitemap: https://jpojqo.github.io/src/sitemap.html.gz
